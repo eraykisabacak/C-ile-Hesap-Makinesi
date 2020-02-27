@@ -23,6 +23,15 @@ namespace HesapMakinesi
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //////
+            ///
+            ///     Ali Eray KISABACAK 
+            ///                        
+            ///                        http://www.eraykisabacak.com/
+            ///                        https://www.linkedin.com/in/eraykisabacak/
+            ///                        https://github.com/eraykisabacak
+            /// 
+            /// ///
 
         }
 
