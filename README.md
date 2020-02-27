@@ -2,5 +2,5 @@
 
 ## Uygulama Görüntüsü 
 
-![hesapmakinesi](https://github.com/eraykisabacak/C-ile-Hesap-Makinesi/hesap_makinesi.png)
+![hesapmakinesi](https://github.com/eraykisabacak/C-ile-Hesap-Makinesi/blob/master/hesap_makinesi.png)
 
